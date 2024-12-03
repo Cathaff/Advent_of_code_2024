@@ -1,2 +1,2 @@
-# Advent_of_code_2024:
+# Advent of code 2024:
 Trying advent of code for the first time
